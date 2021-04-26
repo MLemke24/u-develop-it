@@ -23,7 +23,7 @@ VALUES
 
 INSERT INTO voters (first_name, last_name, email) 
 VALUES
-('James', 'Fraser', 'jf@goldenbough.edu'),
+  ('James', 'Fraser', 'jf@goldenbough.edu'),
   ('Jack', 'London', 'jlondon@ualaska.edu'),
   ('Robert', 'Bruce', 'rbruce@scotland.net'),
   ('Peter', 'Greenaway', 'pgreenaway@postmodern.com'),
